@@ -6,7 +6,7 @@
   },
   "oxygen": {
     "title": "Oxygen",
-    "content": "<i>M. bovis</i> and <i>M. caprae</i> are strictly aerobic but they are able to survive in the presence of CO2 < 10%.",
+    "content": "<i>M. bovis</i> and <i>M. caprae</i> are strictly aerobic but they are able to survive in the presence of CO<sub>2</sub> below 10%.",
     "imgUrl": "images/icons/ic_oxi.svg"
   },
   "ph": {
@@ -16,12 +16,12 @@
   },
   "humidity": {
     "title": "Water",
-    "content": "<i>M. bovis</i> and <i>M. caprae</i> are able to survive in water up to over 200 days at 28-24°C (room temperature).",
+    "content": "<i>M. bovis</i> and <i>M. caprae</i> are able to survive in water up to over 200 days between 24 and 28°C (room temperature).",
     "imgUrl": "images/icons/ic_hum.svg"
   },
   "salinity": {
     "title": "Salinity",
-    "content": "Salinity concentrations > 3.0% inhibit the grow of <i>M. bovis</i> and <i>M. caprae</i>.",
+    "content": "Salinity concentrations above 3.0% inhibit the grow of <i>M. bovis</i> and <i>M. caprae</i>.",
     "imgUrl": "images/icons/ic_salinity.svg"
   }
 
